@@ -2,7 +2,7 @@
 <h3 align="center">A computer engineering student</h3>
 
 
-- 🔭 I’m currently working on **Backend Development with Oracle Service Bus**
+- 🔭 I’m currently working on **Backend Development **
 
 - 🌱 I’m currently learning **FullStack Development**
 
