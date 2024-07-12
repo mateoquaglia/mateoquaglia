@@ -60,13 +60,13 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="notion" width="40" height="40"/> 
   </a> 
   <a href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-word-2013.svg" alt="word" width="40" height="40"/> 
+    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-word.svg" alt="word" width="40" height="40"/> 
   </a> 
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" alt="excel" width="40" height="40"/> 
+    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel.svg" alt="excel" width="40" height="40"/> 
   </a> 
   <a href="https://www.multisim.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/multisim.svg" alt="multisim" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/en/5/58/NI_Multisim_logo.png" alt="multisim" width="40" height="40"/> 
   </a> 
   <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" alt="visual studio" width="40" height="40"/> 
