@@ -60,13 +60,13 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="notion" width="40" height="40"/> 
   </a> 
   <a href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank" rel="noreferrer"> 
-    ![word](https://github.com/user-attachments/assets/23c36e0d-347e-4509-b7bf-2c3677732626) 
+  <img  ![word](https://github.com/user-attachments/assets/23c36e0d-347e-4509-b7bf-2c3677732626) /> 
   </a> 
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> 
-    ![imagen_2024-07-11_214313612](https://github.com/user-attachments/assets/f47a765d-9a24-415e-bd0d-75e999d4e599)
+   <img ![imagen_2024-07-11_214313612](https://github.com/user-attachments/assets/f47a765d-9a24-415e-bd0d-75e999d4e599)/> 
   </a> 
   <a href="https://www.multisim.com/" target="_blank" rel="noreferrer"> 
-    ![multisim](https://github.com/user-attachments/assets/b272e626-17c8-4114-96ff-295f04c2b2ae)
+    <img![multisim](https://github.com/user-attachments/assets/b272e626-17c8-4114-96ff-295f04c2b2ae)/> 
   </a> 
   <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2022.svg" alt="visual studio" width="40" height="40"/> 
