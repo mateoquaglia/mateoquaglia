@@ -11,6 +11,8 @@
 [![My Skills](https://skillicons.dev/icons?i=idea)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=clion)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
 <!--
 **mateoquaglia/mateoquaglia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
