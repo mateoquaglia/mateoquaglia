@@ -60,20 +60,16 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="notion" width="40" height="40"/> 
   </a> 
   <a href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank" rel="noreferrer"> 
- 
+    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-word-2013.svg" alt="word" width="40" height="40"/> 
   </a> 
-   
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> 
-   
+    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" alt="excel" width="40" height="40"/> 
   </a> 
-
-  
   <a href="https://www.multisim.com/" target="_blank" rel="noreferrer"> 
-   
+    <img src="https://cdn.worldvectorlogo.com/logos/multisim.svg" alt="multisim" width="40" height="40"/> 
   </a> 
-  
   <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2022.svg" alt="visual studio" width="40" height="40"/> 
+    <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" alt="visual studio" width="40" height="40"/> 
   </a> 
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="visual studio code" width="40" height="40"/> 
@@ -85,8 +81,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mateoquaglia&show_icons=true&theme=highcontrast&locale=en" alt="mateoquaglia" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mateoquaglia&theme=highcontrast" alt="mateoquaglia" /></p>
-  ![word](https://github.com/user-attachments/assets/23c36e0d-347e-4509-b7bf-2c3677732626)
-  ![imagen_2024-07-11_214313612](https://github.com/user-attachments/assets/f47a765d-9a24-415e-bd0d-75e999d4e599)
-  ![multisim](https://github.com/user-attachments/assets/b272e626-17c8-4114-96ff-295f04c2b2ae)
-
-
