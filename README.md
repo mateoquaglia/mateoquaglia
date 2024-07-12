@@ -1,6 +1,6 @@
 ## Hi there 👋
 [![My Skills](https://skillicons.dev/icons?i=java,nodejs&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 <!--
 **mateoquaglia/mateoquaglia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
