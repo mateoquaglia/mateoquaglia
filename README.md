@@ -60,13 +60,13 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="notion" width="40" height="40"/> 
   </a> 
   <a href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Microsoft_Word_2013-2019_logo.svg" alt="word" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Word_%282019-present%29.svg" alt="word" width="40" height="40"/> 
   </a> 
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Excel_2013-2019_logo.svg" alt="excel" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Excel_%282019-present%29.svg" alt="excel" width="40" height="40"/> 
   </a> 
   <a href="https://www.multisim.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/en/5/58/NI_Multisim_logo.jpg" alt="multisim" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/58/NI_Multisim_logo.jpg/800px-NI_Multisim_logo.jpg" alt="multisim" width="40" height="40"/> 
   </a> 
   <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2022.svg" alt="visual studio" width="40" height="40"/> 
