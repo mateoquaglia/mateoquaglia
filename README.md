@@ -66,7 +66,7 @@
     <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" alt="excel" width="40" height="40"/> 
   </a> 
   <a href="https://www.multisim.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/en/5/58/NI_Multisim_logo.png" alt="multisim" width="40" height="40"/> 
+    <img src="https://avatars.githubusercontent.com/u/5598284?s=200&v=4" alt="multisim" width="40" height="40"/> 
   </a> 
   <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" alt="visual studio" width="40" height="40"/> 
