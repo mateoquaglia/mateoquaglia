@@ -75,7 +75,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mateoquaglia&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="mateoquaglia" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mateoquaglia&theme=highcontrast" alt="mateoquaglia" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mateoquaglia&show_icons=true&theme=highcontrast&locale=en" alt="mateoquaglia" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mateoquaglia&theme=highcontrast" alt="mateoquaglia" /></p>
